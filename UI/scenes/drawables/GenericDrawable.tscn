@@ -1,0 +1,16 @@
+[gd_scene load_steps=5 format=3 uid="uid://bo30t60bef5yv"]
+
+[ext_resource type="Shader" path="res://scenes/canvas.gdshader" id="1_hrlo0"]
+[ext_resource type="Texture2D" uid="uid://xf3d1i6gcga0" path="res://icon.png" id="2_d46hb"]
+[ext_resource type="Script" path="res://scripts/Nekos/Drawing/GenericDrawable.cs" id="3_80mpb"]
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_b6wrj"]
+shader = ExtResource("1_hrlo0")
+shader_parameter/_canvas_data = ExtResource("2_d46hb")
+
+[node name="Drawable1" type="ColorRect"]
+texture_filter = 1
+material = SubResource("ShaderMaterial_b6wrj")
+offset_right = 200.0
+offset_bottom = 200.0
+script = ExtResource("3_80mpb")

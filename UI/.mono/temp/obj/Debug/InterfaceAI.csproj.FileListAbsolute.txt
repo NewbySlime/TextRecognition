@@ -1,0 +1,9 @@
+C:\GodotGamePorjectMono\InterfaceAI\.mono\temp\bin\Debug\InterfaceAI.dll
+C:\GodotGamePorjectMono\InterfaceAI\.mono\temp\bin\Debug\InterfaceAI.pdb
+C:\GodotGamePorjectMono\InterfaceAI\.mono\temp\obj\Debug\InterfaceAI.csproj.AssemblyReference.cache
+C:\GodotGamePorjectMono\InterfaceAI\.mono\temp\obj\Debug\InterfaceAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\GodotGamePorjectMono\InterfaceAI\.mono\temp\obj\Debug\InterfaceAI.AssemblyInfoInputs.cache
+C:\GodotGamePorjectMono\InterfaceAI\.mono\temp\obj\Debug\InterfaceAI.AssemblyInfo.cs
+C:\GodotGamePorjectMono\InterfaceAI\.mono\temp\obj\Debug\InterfaceAI.csproj.CoreCompileInputs.cache
+C:\GodotGamePorjectMono\InterfaceAI\.mono\temp\obj\Debug\InterfaceAI.dll
+C:\GodotGamePorjectMono\InterfaceAI\.mono\temp\obj\Debug\InterfaceAI.pdb

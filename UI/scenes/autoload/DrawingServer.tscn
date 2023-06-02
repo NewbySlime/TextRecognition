@@ -1,0 +1,8 @@
+[gd_scene load_steps=3 format=3 uid="uid://i0yet7lmk1dj"]
+
+[ext_resource type="Script" path="res://scripts/Nekos/Autoload/DrawingServer.cs" id="1_gqwux"]
+[ext_resource type="PackedScene" uid="uid://bo30t60bef5yv" path="res://scenes/drawables/GenericDrawable.tscn" id="2_j7atg"]
+
+[node name="Node" type="Node"]
+script = ExtResource("1_gqwux")
+_scene_genericDrawable = ExtResource("2_j7atg")

@@ -1,0 +1,45 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\GodotGamePorjectMono\\InterfaceAI\\InterfaceAI.csproj": {}
+  },
+  "projects": {
+    "C:\\GodotGamePorjectMono\\InterfaceAI\\InterfaceAI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GodotGamePorjectMono\\InterfaceAI\\InterfaceAI.csproj",
+        "projectName": "InterfaceAI",
+        "projectPath": "C:\\GodotGamePorjectMono\\InterfaceAI\\InterfaceAI.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\GodotGamePorjectMono\\InterfaceAI\\.mono\\temp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

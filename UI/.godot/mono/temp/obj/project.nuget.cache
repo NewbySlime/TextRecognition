@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wPq2Ncz6ZKu2KSYVpjw9J2iHW4kue5jOd7ddwGUEYh/tvRx5WxILvCSVqHcNJBN7hs5nTYCUar2yqIlxRdzyqA==",
+  "success": true,
+  "projectFilePath": "C:\\GodotGamePorjectMono\\InterfaceAI\\UI\\InterfaceAI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder\\godot.sourcegenerators\\4.0.3\\godot.sourcegenerators.4.0.3.nupkg.sha512",
+    "C:\\Users\\ASUS\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder\\godotsharp\\4.0.3\\godotsharp.4.0.3.nupkg.sha512",
+    "C:\\Users\\ASUS\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder\\godotsharpeditor\\4.0.3\\godotsharpeditor.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
